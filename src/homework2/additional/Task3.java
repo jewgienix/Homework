@@ -1,7 +1,7 @@
-package Homework2.additional;
+package homework2.additional;
 
 //3. Напишите программу, которая выводит на консоль таблицу умножения.
-public class task3 {
+public class Task3 {
     public static void main(String[] args) {
         for (int i = 0; i < 10; i++) {
             for (int j = 0; j < 10; j++) {
