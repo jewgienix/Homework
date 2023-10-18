@@ -1,9 +1,9 @@
-package Homework2.main;
+package homework2.main;
 
 import java.util.Scanner;
 
 //5. По введенному номеру определить цвет радуги (1 –красный, 4 – зеленый и т. д.).
-public class task5 {
+public class Task5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter number of rainbow colour");

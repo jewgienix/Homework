@@ -1,4 +1,4 @@
-package Homework2.main;
+package homework2.main;
 
 
 import java.util.Scanner;
@@ -7,7 +7,7 @@ import java.util.Scanner;
 //Если t>–5, то вывести «Тепло».
 //Если –5>= t > –20, то вывести «Нормально».
 //Если –20>= t, то вывести «Холодно».
-public class task4 {
+public class Task4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter temperature");

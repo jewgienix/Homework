@@ -1,7 +1,7 @@
-package Homework2.additional;
+package homework2.additional;
 
 //1. Выведите на экран первые 11 членов последовательности Фибоначчи.
-public class task1 {
+public class Task1 {
     public static void main(String[] args) {
         int a = 1;
         int b = 1;
